@@ -2,6 +2,8 @@
 
 A full-stack movie recommendation web app powered by **TF-IDF content-based filtering** + **TMDB API**, built with FastAPI and Streamlit — deployed on [Render](https://render.com).
 
+
+🔗 **Live Demo:** [https://movie-recommendation-system-v5nfhvg6cm2szgom3f7ytc.streamlit.app/](https://movie-recommendation-system-v5nfhvg6cm2szgom3f7ytc.streamlit.app/)
 ---
 
 ## ✨ Features
@@ -200,3 +202,5 @@ MIT License — feel free to fork and build on this!
 - Recommendation logic inspired by classic content-based filtering approaches
 
 > *This product uses the TMDB API but is not endorsed or certified by TMDB.*
+
+[def]: https://movie-recommendation-system-v5nfhvg6cm2szgom3f7ytc.streamlit.app/
